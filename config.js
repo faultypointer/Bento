@@ -64,19 +64,19 @@ const CONFIG = {
 			link: 'https://mail.protonmail.com/',
 		},
 		{
-			id: '4',
+			id: '3',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://calendar.proton.me/u/0/',
 		},
 		{
-			id: '5',
+			id: '4',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
-			id: '6',
+			id: '5',
 			name: 'youtube',
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
@@ -128,28 +128,28 @@ const CONFIG = {
 
 	// First Links Container
 	firstlistsContainer: [
-		{
-			icon: 'music',
-			id: '1',
-			links: [
-				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-			],
-		},
+		// {
+		// 	icon: 'music',
+		// 	id: '1',
+		// 	links: [
+		// 		{
+		// 			name: 'Inspirational',
+		// 			link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+		// 		},
+		// 		{
+		// 			name: 'Classic',
+		// 			link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+		// 		},
+		// 		{
+		// 			name: 'Oldies',
+		// 			link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+		// 		},
+		// 		{
+		// 			name: 'Rock',
+		// 			link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+		// 		},
+		// 	],
+		// },
 		// {
 		// 	icon: 'coffee',
 		// 	id: '2',
