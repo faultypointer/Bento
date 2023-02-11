@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -97,19 +97,19 @@ const CONFIG = {
 		// 	link: 'https://twitter.com/',
 		// },
 		{
-			id: '3',
+			id: '1',
 			name: 'bot',
 			icon: 'bot',
 			link: 'https://discord.com/app',
 		},
-		// {
-		// 	id: '4',
-		// 	name: 'Amazon',
-		// 	icon: 'shopping-bag',
-		// 	link: 'https://amazon.com/',
-		// },
 		{
-			id: '5',
+			id: '2',
+			name: 'Messenger',
+			icon: 'messenger',
+			link: 'https://www.messenger.com/',
+		},
+		{
+			id: '3',
 			name: 'Hashnode',
 			icon: 'pen-tool',
 			link: 'https://hashnode.com/',
