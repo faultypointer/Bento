@@ -90,12 +90,12 @@ const CONFIG = {
 		// 	icon: 'headphones',
 		// 	link: 'https://open.spotify.com',
 		// },
-		// {
-		// 	id: '2',
-		// 	name: 'twitter',
-		// 	icon: 'twitter',
-		// 	link: 'https://twitter.com/',
-		// },
+		{
+			id: '5',
+			name: 'studypool',
+			icon: 'studypool',
+			link: 'https://www.studypool.com/home#/home',
+		},
 		{
 			id: '1',
 			name: 'bot',
