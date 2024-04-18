@@ -83,8 +83,6 @@ const CONFIG = {
 		},
 	],
 
-	secondButtonsContainer: [
-	],
 	
 	//
 	// ┬  ┬┌─┐┌┬┐┌─┐
@@ -109,10 +107,10 @@ const CONFIG = {
 					name: 'MeroShare',
 					link: 'https://meroshare.cdsc.com.np/#/dashboard',
 				},
-				// {
-				// 	name: 'Rock',
-				// 	link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				// },
+				{
+					name: 'Rock',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
 			],
 		},
 	],
