@@ -83,95 +83,95 @@ const CONFIG = {
 		},
 	],
 
-	secondButtonsContainer: [
-		// {
-		// 	id: '1',
-		// 	name: 'Music',
-		// 	icon: 'headphones',
-		// 	link: 'https://open.spotify.com',
-		// },
-		{
-			id: '5',
-			name: 'studypool',
-			icon: 'studypool',
-			link: 'https://www.studypool.com/home#/home',
-		},
-		{
-			id: '1',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
-		},
-		{
-			id: '2',
-			name: 'Messenger',
-			icon: 'messenger',
-			link: 'https://www.messenger.com/',
-		},
-		{
-			id: '3',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
-		},
-		{
-			id: '4',
-			name: 'Exercism',
-			icon: 'Exercism',
-			link: 'https://exercism.org/dashboard',
-		},
-	],
-
+	// secondButtonsContainer: [
+	// 	// {
+	// 	// 	id: '1',
+	// 	// 	name: 'Music',
+	// 	// 	icon: 'headphones',
+	// 	// 	link: 'https://open.spotify.com',
+	// 	// },
+	// 	{
+	// 		id: '5',
+	// 		name: 'studypool',
+	// 		icon: 'studypool',
+	// 		link: 'https://www.studypool.com/home#/home',
+	// 	},
+	// 	{
+	// 		id: '1',
+	// 		name: 'bot',
+	// 		icon: 'bot',
+	// 		link: 'https://discord.com/app',
+	// 	},
+	// 	{
+	// 		id: '2',
+	// 		name: 'Messenger',
+	// 		icon: 'messenger',
+	// 		link: 'https://www.messenger.com/',
+	// 	},
+	// 	{
+	// 		id: '3',
+	// 		name: 'Hashnode',
+	// 		icon: 'pen-tool',
+	// 		link: 'https://hashnode.com/',
+	// 	},
+	// 	{
+	// 		id: '4',
+	// 		name: 'Exercism',
+	// 		icon: 'Exercism',
+	// 		link: 'https://exercism.org/dashboard',
+	// 	},
+	// ],
+	//
 	// ┬  ┬┌─┐┌┬┐┌─┐
 	// │  │└─┐ │ └─┐
 	// ┴─┘┴└─┘ ┴ └─┘
 
 	// First Links Container
 	firstlistsContainer: [
-		// {
-		// 	icon: 'music',
-		// 	id: '1',
-		// 	links: [
-		// 		{
-		// 			name: 'Inspirational',
-		// 			link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-		// 		},
-		// 		{
-		// 			name: 'Classic',
-		// 			link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-		// 		},
-		// 		{
-		// 			name: 'Oldies',
-		// 			link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-		// 		},
-		// 		{
-		// 			name: 'Rock',
-		// 			link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-		// 		},
-		// 	],
-		// },
-		// {
-		// 	icon: 'coffee',
-		// 	id: '2',
-		// 	links: [
-		// 		{
-		// 			name: 'Linkedin',
-		// 			link: 'https://www.linkedin.com',
-		// 		},
-		// 		{
-		// 			name: 'Dribbble',
-		// 			link: 'https://www.dribbble.com',
-		// 		},
-		// 		{
-		// 			name: 'Trello',
-		// 			link: 'https://www.trello.com',
-		// 		},
-		// 		{
-		// 			name: 'Slack',
-		// 			link: 'https://www.slack.com',
-		// 		},
-		// 	],
-		// },
+		{
+			icon: 'wallet',
+			id: '1',
+			links: [
+				{
+					name: 'ConnectIPS',
+					link: 'https://login.connectips.com/#/welcome',
+				},
+				{
+					name: 'Khalti',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Oldies',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Rock',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+			],
+		},
+		{
+			icon: 'coffee',
+			id: '2',
+			links: [
+				{
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com',
+				},
+				{
+					name: 'Dribbble',
+					link: 'https://www.dribbble.com',
+				},
+				{
+					name: 'Trello',
+					link: 'https://www.trello.com',
+				},
+				{
+					name: 'Slack',
+					link: 'https://www.slack.com',
+				},
+			],
+		},
 	],
 
 	// Second Links Container
