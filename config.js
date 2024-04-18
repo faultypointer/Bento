@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.proton.me/u/0/',
+			name: 'Pocket',
+			icon: 'pocket',
+			link: 'https://getpocket.com/saves',
 		},
 		{
 			id: '4',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'HackerNews',
+			icon: 'rss',
+			link: 'https://news.ycombinator.com/',
 		},
 		{
 			id: '5',
@@ -84,43 +84,8 @@ const CONFIG = {
 	],
 
 	// secondButtonsContainer: [
-	// 	// {
-	// 	// 	id: '1',
-	// 	// 	name: 'Music',
-	// 	// 	icon: 'headphones',
-	// 	// 	link: 'https://open.spotify.com',
-	// 	// },
-	// 	{
-	// 		id: '5',
-	// 		name: 'studypool',
-	// 		icon: 'studypool',
-	// 		link: 'https://www.studypool.com/home#/home',
-	// 	},
-	// 	{
-	// 		id: '1',
-	// 		name: 'bot',
-	// 		icon: 'bot',
-	// 		link: 'https://discord.com/app',
-	// 	},
-	// 	{
-	// 		id: '2',
-	// 		name: 'Messenger',
-	// 		icon: 'messenger',
-	// 		link: 'https://www.messenger.com/',
-	// 	},
-	// 	{
-	// 		id: '3',
-	// 		name: 'Hashnode',
-	// 		icon: 'pen-tool',
-	// 		link: 'https://hashnode.com/',
-	// 	},
-	// 	{
-	// 		id: '4',
-	// 		name: 'Exercism',
-	// 		icon: 'Exercism',
-	// 		link: 'https://exercism.org/dashboard',
-	// 	},
 	// ],
+	
 	//
 	// ┬  ┬┌─┐┌┬┐┌─┐
 	// │  │└─┐ │ └─┐
@@ -138,87 +103,25 @@ const CONFIG = {
 				},
 				{
 					name: 'Khalti',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://web.khalti.com/#/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'MeroShare',
+					link: 'https://meroshare.cdsc.com.np/#/dashboard',
 				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-			],
-		},
-		{
-			icon: 'coffee',
-			id: '2',
-			links: [
-				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
-				},
-				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
-				},
+				// {
+				// 	name: 'Rock',
+				// 	link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				// },
 			],
 		},
 	],
+	// 	{
+// 	},
+	// ],
 
 	// Second Links Container
-	secondListsContainer: [
-		// {
-		// 	icon: 'binary',
-		// 	id: '1',
-		// 	links: [
-		// 		{
-		// 			name: 'Spotify',
-		// 			link: 'https://www.spotify.com',
-		// 		},
-		// 		{
-		// 			name: 'Reddit',
-		// 			link: 'https://www.reddit.com',
-		// 		},
-		// 		{
-		// 			name: 'Hashnode',
-		// 			link: 'https://www.hashnode.com',
-		// 		},
-		// 		{
-		// 			name: 'Pocket',
-		// 			link: 'https://www.pocket.com',
-		// 		},
-		// 	],
-		// },
-		{
-			icon: 'github',
-			id: '2',
-			links: [
-				// {
-				// 	name: 'Front',
-				// 	link: 'https://www.reddit.com/r/Frontend/',
-				// },
-				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
-				},
-				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
-				},
-				{
-					name: 'This week in rust',
-					link: 'https://this-week-in-rust.org/',
-				},
-			],
-		},
-	],
+	// secondListsContainer: [
+	
+	// ],
 };
