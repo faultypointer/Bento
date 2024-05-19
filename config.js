@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Pocket',
-			icon: 'pocket',
-			link: 'https://getpocket.com/saves',
+			name: 'Omnivore',
+			icon: 'book-check',
+			link: 'https://omnivore.app/home',
 		},
 		{
 			id: '4',
