@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Omnivore',
-			icon: 'book-check',
-			link: 'https://omnivore.app/home',
+			name: 'Mastodon',
+			icon: 'twitter',
+			link: 'https://mas.to/home',
 		},
 		{
 			id: '4',
